@@ -55,7 +55,7 @@ export default function Projects() {
         <div className="mb-24">
           <Link 
             href="/" 
-            className="inline-flex items-center gap-2 text-xl text-[#A6808C] dark:text-[#CCB7AE] hover:text-[#565264] dark:hover:text-[#a6808c] "
+            className="inline-flex items-center gap-2 text-xl text-[#A6808C] dark:text-[#CCB7AE] hover:text-[#565264] dark:hover:text-[#a6808c]"
           >
             <span>←</span> Home Page
           </Link>
@@ -81,7 +81,7 @@ export default function Projects() {
                         href={project.link}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-xl font-semibold text-[#A6808C] dark:text-[#CCB7AE] hover:opacity-80 flex items-center group"
+                        className="text-xl font-semibold text-[#A6808C] dark:text-[#CCB7AE] hover:text-[#565264] dark:hover:text-[#a6808c] flex items-center group"
                       >
                         {project.name}
                         <span className="ml-2 opacity-0 group-hover:opacity-100 transition-opacity">→</span>
