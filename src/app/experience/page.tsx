@@ -93,7 +93,7 @@ export default function Experience() {
           <div className="mb-24">
             <Link 
               href="/" 
-              className="inline-flex items-center gap-2 text-xl text-[#A6808C] dark:text-[#CCB7AE] hover:opacity-80"
+              className="inline-flex items-center gap-2 text-xl text-[#A6808C] dark:text-[#CCB7AE] hover:text-[#565264] dark:hover:text-[#a6808c] "
             >
               <span>←</span> Home Page
             </Link>

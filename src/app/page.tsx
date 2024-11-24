@@ -19,11 +19,11 @@
             <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-300">0x6C</span>{" "}
             <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-400">0x6F</span>{" "}
             <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-200">0x20</span>{" "}
-            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-200">0x57</span>{" "}
-            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-200">0x6F</span>{" "}
+            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-400">0x57</span>{" "}
+            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-100">0x6F</span>{" "}
             <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-200">0x72</span>{" "}
-            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-200">0x6C</span>{" "}
-            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-200">0x64</span>{" "} 
+            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-300">0x6C</span>{" "}
+            <span className="inline-block transition-opacity duration-300 group-hover:opacity-0 delay-100">0x64</span>{" "} 
           </span>
           <span className="block transition-opacity duration-300 opacity-0 group-hover:opacity-100">
            Hello World!
