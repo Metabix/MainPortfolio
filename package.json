@@ -1,0 +1,39 @@
+{
+  "name": "mainportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5000",
+    "build": "next build",
+    "start": "next start -p 5000",
+    "lint": "next lint",
+    "pages:build": "npx @cloudflare/next-on-pages"
+  },
+  "dependencies": {
+    "debug": "^4.3.4",
+    "next": "15.0.3",
+    "next-themes": "^0.4.3",
+    "path-to-regexp": "^8.2.0",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "semver": "^7.6.3",
+    "tar": "^7.4.3",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@netlify/zip-it-and-ship-it": "^9.41.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vercel/node": "^2.10.3",
+    "@vercel/redwood": "^0.6.0",
+    "@vercel/static-build": "^1.2.1",
+    "detective-postcss": "^7.0.0",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5",
+    "vercel": "^28.18.5"
+  }
+}
